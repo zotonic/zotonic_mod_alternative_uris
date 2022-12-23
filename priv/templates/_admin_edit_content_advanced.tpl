@@ -1,6 +1,7 @@
 {% overrules %}
 
 {% block edit_advanced_extra %}
+    {% inherit %}
     <div class="form-group row">
         <label class="control-label col-md-3" for="field-alternative-uris">{_ Alternative uris _}</label>
         <div class="col-md-9">
