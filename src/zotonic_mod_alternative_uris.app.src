@@ -1,0 +1,12 @@
+%% -*- mode: erlang -*-
+{application, zotonic_mod_alternative_uris, [
+    {description, "Define alternative uris for a resource."},
+    {vsn, "git"},
+    {registered, []},
+    {applications, [kernel, stdlib, zotonic_core]},
+    {env, []},
+    {modules, []},
+    {maintainers, []},
+    {licenses, ["Apache-2.0"]},
+    {links, [{"GitHub", "https://github.com/zotonic/zotonic_mod_alternative_uris"}]}
+]}.
