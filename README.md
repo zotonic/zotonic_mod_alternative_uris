@@ -13,4 +13,4 @@ The alternative uris are matched after matching all configured hosts and/or disp
 
 ## Zotonic version
 
-You will need Zotonic version 0.13.2 or later. This because of changes to the *Advanced* admin panel.
+You will need Zotonic version 1.0.0 or later. This because of changes to the *Advanced* admin panel.
